@@ -1,0 +1,2 @@
+# mani
+small project
